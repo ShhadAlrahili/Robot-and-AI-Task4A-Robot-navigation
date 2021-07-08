@@ -13,5 +13,6 @@ $ roslaunch turtlebot3_gazebo turtlebot3_world.launch<br>
 
 3- Set Navigation Goal:<br>
    Click the 2D Nav Goal button in the RViz menu.
+   ![](/task4a.png)
   </p>
   
