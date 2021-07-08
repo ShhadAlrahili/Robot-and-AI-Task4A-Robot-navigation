@@ -1,6 +1,6 @@
 # Robot-and-AI-Task4A-Robot-navigation
 <h2>Task4 -A:</h2>
-<p>to complit task of using slam map to launsh Navigation follow this step:</p>
+<p>to complete task of using slam map to launsh Navigation follow this steps:</p>
 
 
 <p1>1- launch Simulation World:<br>
